@@ -96,5 +96,5 @@ README.md
 - Data Storytelling
 
 ## Author
-Jannatul Ferdous Shayak
+**Jannatul Ferdous Shayak**
 
