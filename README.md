@@ -75,13 +75,14 @@ Page 3 – Product & Operations Analysis
 - Recommendations
 
 ## Repository Contents
-
+```
 Data/
 SQL/
 PowerBI/
 Report/
 Images/
 README.md
+```
 
 ## Skills Demonstrated
 
