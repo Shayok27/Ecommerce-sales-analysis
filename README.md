@@ -94,6 +94,5 @@ Skills Demonstrated
 - Business Intelligence
 - Data Storytelling
 
-Author
-Jannatul Ferdous Shayak
+Author: Jannatul Ferdous Shayak
 
