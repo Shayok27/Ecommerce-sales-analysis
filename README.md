@@ -1,24 +1,24 @@
-## Ecommerce Sales Performance Analysis (2023–2026)
+# Ecommerce Sales Performance Analysis (2023–2026)
 
-# Project Overview
+## Project Overview
 
 This project analyzes four years of ecommerce sales data (2023–2026) using Excel, SQL and Power BI.
 
 The objective was to transform raw sales data into meaningful business insights through data cleaning, SQL analysis, data visualization, and interactive dashboards.
 
-# Tools Used
+## Tools Used
 
 - Microsoft Excel
 - SQL (MySQL)
 - Power BI
 - GitHub
 
-# Dataset
+## Dataset
 
 - 30,000 Ecommerce Orders
 - Analysis Period: 2023–2026
 
-# Business Questions Answered
+## Business Questions Answered
 
 1. Total Revenue
 2. Total Profit
@@ -45,7 +45,7 @@ The objective was to transform raw sales data into meaningful business insights 
 23. Highest Return Rate by Product Category
 24. Correlation Between Discount and Profit
 
-# Dashboard Pages
+## Dashboard Pages
 
 Page 1 – Sales Overview
 
@@ -74,7 +74,7 @@ Page 3 – Product & Operations Analysis
 - Business Insights
 - Recommendations
 
-# Repository Contents
+## Repository Contents
 
 Data/
 SQL/
@@ -83,7 +83,7 @@ Report/
 Images/
 README.md
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - SQL
@@ -94,6 +94,6 @@ README.md
 - Business Intelligence
 - Data Storytelling
 
-# Author
+## Author
 Jannatul Ferdous Shayak
 
