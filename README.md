@@ -83,7 +83,14 @@ Report/
 Images/
 README.md
 ```
+Key highlights:
 
+- $11.37M total revenue
+- $2.22M total profit
+- 30,000 orders analyzed
+- Interactive Power BI dashboards
+- Business insights and recommendations
+  
 ## Skills Demonstrated
 
 - Data Cleaning
